@@ -8,7 +8,7 @@
 	align-items: center;
 	justify-content: flex-end;
 }
-.b_search {
+.filters button {
 	color: #FFFFFF;
 	margin-right: 30px;
 	font-size: 18px;
@@ -21,6 +21,6 @@
 	border: 0;
 	border-radius: 4px;
 }
-.b_search:hover {
+butoon:hover {
 	opacity: 90%;
 }
